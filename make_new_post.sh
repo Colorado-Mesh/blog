@@ -43,7 +43,7 @@ description: FILL THIS OUT
 tags: []
 ---
 
-## $title" > "$path"
+"> "$path"
 
 # add the file to git
 git add "$path"
