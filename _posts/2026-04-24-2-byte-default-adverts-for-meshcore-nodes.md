@@ -8,8 +8,6 @@ tags:
   - announcements
 ---
 
-## 2-Byte Default Adverts for MeshCore Nodes
-
 On **April 24, 2026**, the Colorado Mesh community has officially required all MeshCore nodes (companions, repeaters, room servers) to switch to using 2-byte adverts to prevent close-proximity message collisions on the network.
 
 Please update your repeaters and set `path.hash.mode` to `1`.

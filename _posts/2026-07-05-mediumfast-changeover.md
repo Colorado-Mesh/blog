@@ -8,8 +8,6 @@ tags:
   - announcements
 ---
 
-## Denver Metro Regional Changeover to MediumFast for Meshtastic Network
-
 Our Denver Metro local Meshtastic network has grown beyond just a handful of nodes. We're starting to experience issues like delayed message delivery, network congestion, or inconsistent results, and the problem is our LoRa radio preset. Specifically, we have outgrown the default preset: LongFast.
 
 While LongFast is an excellent general-purpose preset for many users, it may not be the optimal choice for larger or denser meshes.

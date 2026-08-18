@@ -7,8 +7,6 @@ tags:
   - promotion
 ---
 
-## Advocacy Material for Colorado Mesh
-
 Some Colorado Mesh community members have helped generate some promotional material for mesh networks.
 
 Feel free to download and print out these materials to distribute to neighbors, radio clubs, building or property owners, libraries or makerspaces. 

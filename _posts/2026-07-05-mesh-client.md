@@ -10,8 +10,6 @@ tags:
   - reticulum
 ---
 
-## Mesh-Client
-
 Colorado Mesh founding member [Joey Standford](https://github.com/rinchen) created a development project called [Mesh-Client][project] on March 2, 2026. He got the idea from experiencing various shortcomings with the Apple desktop client, and decided to create a project that quickly grew into an amazing desktop application that has gained use in mesh communities worldwide!
 
 Mesh-Client is designed for use on macOS, Linux, and Windows with support for Meshtastic, MeshCore, and Reticulum.
