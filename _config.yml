@@ -1,0 +1,38 @@
+title: "Colorado Mesh - Blog"
+author: "Colorado Mesh"
+description: "Blogs and announcements from Colorado Mesh" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+
+# Email / Social media usernames used by the minima theme:
+# All of these are optional and can be removed or commented out
+github_username: "Colorado-Mesh"
+
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
+  
+giscus_repo: Colorado-Mesh/blog
+giscus_repo_id: R_kgDOT76IaA
+giscus_category: Comments
+giscus_category_id: DIC_kwDOT76IaM4DDnaY
