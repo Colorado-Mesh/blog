@@ -1,0 +1,3 @@
+[submodule "newsletter_source"]
+	path = newsletter_source
+	url = https://github.com/Colorado-Mesh/advocacy.git
