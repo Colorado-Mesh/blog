@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Colorado Mesh Monthly — August & September 2026"
-date:   2026-09-21
+title: "Colorado Mesh Monthly — August & September 2026"
+date: 2026-09-21
 description: The first issue of our monthly community newsletter — protocol updates, events, gear, and more from across the Colorado mesh.
 tags:
   - newsletter
@@ -21,7 +21,7 @@ Inside this issue:
 - **Gear & Firmware** — new firmware, a safety bulletin, and board notes from the workbench.
 - **Community Spotlight, a Photo of the Month, a Story of the Month, and a giveaway** — react to be entered for a RAKwireless WisBlock starter kit.
 
-### Read the issue
+### Read the Issue
 
 Flip through the full issue below, or
 <a href="https://github.com/Colorado-Mesh/advocacy/raw/main/newsletter/issues/2026-09/newsletter-aug-sep-2026.pdf">download the PDF</a>
@@ -45,7 +45,7 @@ to read, print, or share it.
 
 <a href="https://github.com/Colorado-Mesh/advocacy/raw/main/newsletter/issues/2026-09/newsletter-aug-sep-2026.pdf">Download the full issue (PDF)</a>
 
-### Get involved
+### Get Involved
 
 Got something for next month — a repeater you lit up, a build, an event, gear
 for sale? Drop it in [Discord][discord] and it'll show up in the next issue. The
@@ -53,5 +53,5 @@ newsletter's tooling and process are open in the [advocacy repo][advocacy].
 
 **73**
 
-[discord]: https://discord.gg/coloradomesh
+[discord]: https://discord.coloradomesh.org
 [advocacy]: https://github.com/Colorado-Mesh/advocacy/tree/main/newsletter
