@@ -37,8 +37,8 @@ touch "$path"
 # populate the file
 echo "---
 layout: post
-title:  \"$title\"
-date:   $date
+title: \"$title\"
+date: $date
 description: FILL THIS OUT
 tags: []
 ---
