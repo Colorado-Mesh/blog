@@ -23,11 +23,27 @@ Inside this issue:
 
 ### Read the issue
 
-<a href="https://github.com/Colorado-Mesh/advocacy/blob/main/newsletter/issues/2026-09/newsletter-aug-sep-2026.pdf">Read the full August & September 2026 issue (PDF)</a>
+Flip through the full issue below, or
+<a href="https://github.com/Colorado-Mesh/advocacy/raw/main/newsletter/issues/2026-09/newsletter-aug-sep-2026.pdf">download the PDF</a>
+to read, print, or share it.
 
-<img src="https://raw.githubusercontent.com/Colorado-Mesh/advocacy/main/newsletter/issues/2026-09/photos/bluesky_b_square_web.jpg" alt="Photo of the Month: a MeshCore node on the summit of Mt Blue Sky">
+<div class="newsletter-pages">
+  <img src="/assets/newsletter/2026-09/page-01.jpg" alt="Colorado Mesh Monthly Aug/Sept 2026 — page 1" loading="lazy">
+  <img src="/assets/newsletter/2026-09/page-02.jpg" alt="page 2" loading="lazy">
+  <img src="/assets/newsletter/2026-09/page-03.jpg" alt="page 3" loading="lazy">
+  <img src="/assets/newsletter/2026-09/page-04.jpg" alt="page 4" loading="lazy">
+  <img src="/assets/newsletter/2026-09/page-05.jpg" alt="page 5" loading="lazy">
+  <img src="/assets/newsletter/2026-09/page-06.jpg" alt="page 6" loading="lazy">
+  <img src="/assets/newsletter/2026-09/page-07.jpg" alt="page 7" loading="lazy">
+  <img src="/assets/newsletter/2026-09/page-08.jpg" alt="page 8" loading="lazy">
+</div>
 
-*Photo of the Month: a MeshCore node logging repeaters from the summit of Mt Blue Sky (photo: M0TH3R).*
+<style>
+.newsletter-pages img{ width:100%; max-width:800px; display:block; margin:1rem auto;
+  border:1px solid #ccc; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,.15); }
+</style>
+
+<a href="https://github.com/Colorado-Mesh/advocacy/raw/main/newsletter/issues/2026-09/newsletter-aug-sep-2026.pdf">Download the full issue (PDF)</a>
 
 ### Get involved
 
