@@ -36,7 +36,7 @@ tags:
 
 ## 📸 Photo / Video of the Month
 
-![jk's modified Wio Tracker L1 case with an added pogo-pin connector (photo: jk)](photos/jkbuild_square_web.jpg)
+![jk's modified Wio Tracker L1 case with an added pogo-pin connector (photo: jk)](/assets/jkbuild_square_web.jpg)
 
 Caption: October's build of the month: **jk** modified a Wio Tracker L1 case and added a pogo-pin connector for easy, solder-free battery swaps. Exactly the kind of hands-on tinkering — print, tweak, improve, share — that keeps the mesh fun. Photo: jk, from [#projects-and-builds](https://discord.com/channels/1436156966648152271/).
 
