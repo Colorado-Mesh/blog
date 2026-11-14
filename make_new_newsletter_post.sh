@@ -26,10 +26,12 @@ title="Colorado Mesh Monthly $issue_name"
 # find the first PDF file (hopefully the ONLY PDF file)
 source_pdf_file=$(find "$newsletter_source_folder" -name '*.pdf' | head -n 1)
 
-# copy all assets from source to destination
-mkdir -p "$destination_assets_folder" || true
-cp -r "$source_assets_folder" "$destination_assets_folder"
-cp "$source_pdf_file" "$destination_assets_folder/"
+# copy all assets from source to destination if source exists
+if [ -d "$source_assets_folder" ]; then
+  mkdir -p "$destination_assets_folder" || true
+  cp -r "$source_assets_folder" "$destination_assets_folder" || true
+  cp "$source_pdf_file" "$destination_assets_folder/" || true
+fi
 
 destination_pdf_file=$(find "$destination_assets_folder" -name '*.pdf' | head -n 1)
 
